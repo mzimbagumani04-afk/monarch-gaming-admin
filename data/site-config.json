@@ -1,0 +1,316 @@
+{
+  "brand": {
+    "topName": "MONARCH",
+    "bottomName": "GAMING",
+    "domainSuffix": ".online"
+  },
+  "hero": {
+    "headline": "MONARCH GAMING",
+    "subtitle": "Play. Win. Rule.",
+    "description": "Compete in the ultimate esports platform. Challenge players worldwide, climb the leaderboard, and dominate the game.",
+    "primaryCtaText": "Download App",
+    "secondaryCtaText": "Explore Games",
+    "androidVersion": "MonarchGaming-v4.2.apk",
+    "androidSize": "48.4 MB • Android 9.0+",
+    "iosLabel": "Monarch Gaming iOS",
+    "iosSize": "52.1 MB • iOS 15.0+"
+  },
+  "stats": [
+    {
+      "id": "players",
+      "value": "Global",
+      "label": "Players",
+      "badge": "Open Arena",
+      "icon": "players"
+    },
+    {
+      "id": "tournaments",
+      "value": "Daily",
+      "label": "Tournaments",
+      "badge": "Live Brackets",
+      "icon": "tournaments"
+    },
+    {
+      "id": "support",
+      "value": "24/7",
+      "label": "Support",
+      "badge": "Live Support",
+      "icon": "support"
+    }
+  ],
+  "featuredGamesTitle": "Featured Games",
+  "featuredGames": [
+    {
+      "id": "free-fire",
+      "title": "FREE FIRE",
+      "genre": "Battle Royale",
+      "mode": "Mobile",
+      "playersBadge": "1.2M Players",
+      "prizePool": "$15,000",
+      "nextMatchIn": "04m 18s",
+      "activeRooms": 42,
+      "description": "Drop into fast-paced 50-player survival brackets, Clash Squad 4v4 gauntlets, and daily ranked scrims.",
+      "tournaments": [
+        {
+          "name": "Bermuda Crown Scrims",
+          "format": "Squad • 48 Players",
+          "entry": "Free Entry",
+          "prize": "$1,500",
+          "slots": "44 / 48"
+        },
+        {
+          "name": "Clash Squad Elite Cup",
+          "format": "4v4 • Elimination",
+          "entry": "100 Coins",
+          "prize": "$3,200",
+          "slots": "14 / 16"
+        }
+      ]
+    },
+    {
+      "id": "pubg-mobile",
+      "title": "PUBG MOBILE",
+      "genre": "Battle Royale",
+      "mode": "Mobile",
+      "playersBadge": "980K Players",
+      "prizePool": "$22,500",
+      "nextMatchIn": "07m 45s",
+      "activeRooms": 36,
+      "description": "Compete across Erangel and Miramar pro-rules lobbies with verified anti-cheat and instant payout brackets.",
+      "tournaments": [
+        {
+          "name": "Monarch Erangel Pro Open",
+          "format": "Squad TPP • 100 Players",
+          "entry": "Free Entry",
+          "prize": "$5,000",
+          "slots": "88 / 100"
+        },
+        {
+          "name": "TDM Warehouse Showdown",
+          "format": "4v4 • Best of 3",
+          "entry": "150 Coins",
+          "prize": "$2,000",
+          "slots": "28 / 32"
+        }
+      ]
+    },
+    {
+      "id": "codm",
+      "title": "CODM",
+      "genre": "Shooter",
+      "mode": "PvP",
+      "playersBadge": "750K Players",
+      "prizePool": "$12,000",
+      "nextMatchIn": "02m 50s",
+      "activeRooms": 29,
+      "description": "High-intensity Search & Destroy, Hardpoint, and Battle Royale Isolated lobbies tuned for competitive mobile squads.",
+      "tournaments": [
+        {
+          "name": "Cyber Night S&D Major",
+          "format": "5v5 • Search & Destroy",
+          "entry": "Free Entry",
+          "prize": "$2,800",
+          "slots": "12 / 16"
+        },
+        {
+          "name": "Nuketown Sniper Duel",
+          "format": "1v1 • Quickscope",
+          "entry": "50 Coins",
+          "prize": "$750",
+          "slots": "30 / 32"
+        }
+      ]
+    },
+    {
+      "id": "chess",
+      "title": "CHESS",
+      "genre": "Strategy",
+      "mode": "Turn-Based",
+      "playersBadge": "2.1M Players",
+      "prizePool": "$18,000",
+      "nextMatchIn": "01m 10s",
+      "activeRooms": 64,
+      "description": "Rapid, Blitz, and Bullet Swiss arenas with fair-play rating verification and Grandmaster seasonal crowns.",
+      "tournaments": [
+        {
+          "name": "Monarch Blitz Arena (3+2)",
+          "format": "Swiss • 9 Rounds",
+          "entry": "Free Entry",
+          "prize": "$2,500",
+          "slots": "112 / 128"
+        },
+        {
+          "name": "Royal Gambit Knockout",
+          "format": "Rapid 10+0 • Single Elim",
+          "entry": "100 Coins",
+          "prize": "$4,000",
+          "slots": "56 / 64"
+        }
+      ]
+    }
+  ],
+  "leaderboardTitle": "Leaderboard",
+  "leaderboardSubtitle": "Top Players This Season • Updated live • Season 12",
+  "leaderboardCtaText": "View Full Leaderboard",
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Phoenix_99",
+      "points": "12,450 PTS",
+      "pointsNumeric": 12450,
+      "winRate": 78,
+      "primaryGame": "free-fire",
+      "region": "GLOBAL",
+      "matches": 342,
+      "bio": "Season 12 reigning Champion • Aggressive rusher & IGL for Apex Monarch."
+    },
+    {
+      "rank": 2,
+      "name": "NovaElite",
+      "points": "11,892 PTS",
+      "pointsNumeric": 11892,
+      "winRate": 74,
+      "primaryGame": "pubg-mobile",
+      "region": "EU",
+      "matches": 318,
+      "bio": "Erangel sniper specialist with 4.9 K/D across Pro Open brackets."
+    },
+    {
+      "rank": 3,
+      "name": "RexKhan",
+      "points": "10,204 PTS",
+      "pointsNumeric": 10204,
+      "winRate": 71,
+      "primaryGame": "codm",
+      "region": "ASIA",
+      "matches": 295,
+      "bio": "Search & Destroy clutch leader and multi-season top 5 finisher."
+    },
+    {
+      "rank": 4,
+      "name": "ValkyrieGM",
+      "points": "9,840 PTS",
+      "pointsNumeric": 9840,
+      "winRate": 76,
+      "primaryGame": "chess",
+      "region": "NA",
+      "matches": 412,
+      "bio": "2480 Blitz Elo tactician dominating Swiss Arena weekend cups."
+    },
+    {
+      "rank": 5,
+      "name": "ShadowByte",
+      "points": "9,415 PTS",
+      "pointsNumeric": 9415,
+      "winRate": 69,
+      "primaryGame": "codm",
+      "region": "EU",
+      "matches": 274,
+      "bio": "Hardpoint anchor and SMG entry specialist."
+    },
+    {
+      "rank": 6,
+      "name": "KairoSniper",
+      "points": "8,990 PTS",
+      "pointsNumeric": 8990,
+      "winRate": 68,
+      "primaryGame": "pubg-mobile",
+      "region": "MENA",
+      "matches": 260,
+      "bio": "Long-range marksman leading MENA squad rankings."
+    },
+    {
+      "rank": 7,
+      "name": "AetherQueen",
+      "points": "8,710 PTS",
+      "pointsNumeric": 8710,
+      "winRate": 72,
+      "primaryGame": "chess",
+      "region": "GLOBAL",
+      "matches": 389,
+      "bio": "Rapid knockout finalist known for sharp endgame conversions."
+    },
+    {
+      "rank": 8,
+      "name": "BlazeVortex",
+      "points": "8,325 PTS",
+      "pointsNumeric": 8325,
+      "winRate": 66,
+      "primaryGame": "free-fire",
+      "region": "LATAM",
+      "matches": 241,
+      "bio": "Clash Squad MVP with 18 consecutive series wins."
+    },
+    {
+      "rank": 9,
+      "name": "ZeroPulse",
+      "points": "7,980 PTS",
+      "pointsNumeric": 7980,
+      "winRate": 65,
+      "primaryGame": "codm",
+      "region": "NA",
+      "matches": 229,
+      "bio": "Versatile flex player competing in S&D and Duel ladders."
+    },
+    {
+      "rank": 10,
+      "name": "TitanRook",
+      "points": "7,640 PTS",
+      "pointsNumeric": 7640,
+      "winRate": 70,
+      "primaryGame": "chess",
+      "region": "EU",
+      "matches": 305,
+      "bio": "Positional grandmaster challenger climbing Season 12."
+    }
+  ],
+  "footer": {
+    "copyright": "MONARCH GAMING • © 2026 Monarch Gaming.online • All rights reserved",
+    "followHeading": "Follow Us"
+  },
+  "socialLinks": [
+    {
+      "id": "whatsapp",
+      "label": "WhatsApp",
+      "url": "",
+      "enabled": true
+    },
+    {
+      "id": "discord",
+      "label": "Discord",
+      "url": "",
+      "enabled": true
+    },
+    {
+      "id": "tiktok",
+      "label": "TikTok",
+      "url": "",
+      "enabled": true
+    },
+    {
+      "id": "facebook",
+      "label": "Facebook",
+      "url": "",
+      "enabled": true
+    },
+    {
+      "id": "instagram",
+      "label": "Instagram",
+      "url": "",
+      "enabled": true
+    },
+    {
+      "id": "youtube",
+      "label": "YouTube",
+      "url": "",
+      "enabled": true
+    },
+    {
+      "id": "x",
+      "label": "X",
+      "url": "",
+      "enabled": true
+    }
+  ],
+  "updatedAt": "2026-11-23T00:00:00.000Z"
+}

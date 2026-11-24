@@ -1,0 +1,6 @@
+{
+  "name": "Monarch Gaming.online",
+  "description": "Compete in the ultimate mobile esports platform. Challenge players worldwide, join tournaments, climb the leaderboard, and dominate Free Fire, PUBG Mobile, CODM, and Chess.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
